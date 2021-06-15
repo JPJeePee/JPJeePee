@@ -8,7 +8,7 @@ I'm also an open-source enthusiast and maintainer. I learned a lot from the open
 
 📈 My GitHub
 
-<img align="left" style="display:block;width:500px;" src="https://github-readme-stats.vercel.app/api?username=smackgg&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="left" style="display:block;width:500px;" src="https://github-readme-stats.vercel.app/api?username=JPJeePee&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 **Languages and Tools:**
 
